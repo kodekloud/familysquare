@@ -1,0 +1,101 @@
+
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    white;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    white;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    white;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:    white;
+}
+
+
+body {
+  /* Location of the image */
+  background-image: url(http://assets.kodekloud.io/sites/5592f9b56e6f647f9a000000/a8558ceb8569d87933bef62fd5760b41/pf_bg.jpg);
+  
+  /* Background image is centered vertically and horizontally at all times */
+  background-position: center center;
+  
+  /* Background image doesn't tile */
+  background-repeat: no-repeat;
+  
+  /* Background image is fixed in the viewport so that it doesn't move when 
+     the content's height is greater than the image's height */
+  background-attachment: fixed;
+  
+  /* This is what makes the background image rescale based
+     on the container's size */
+  background-size: cover;
+  
+  /* Set a background color that will be displayed
+     while the background image is loading */
+  background-color: #464646;
+}
+
+.logo{
+    height:90px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:100px;
+    
+}
+
+#subForm{
+    margin-top:40px;
+}
+.container_div{
+    margin-top:60px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    width:56%;
+    text-align:center;
+}
+
+.container_div p {
+    color:white;
+    font-family:helvetica;
+    font-size:18px;
+}
+
+.email_input{
+    background:white;
+    border:1px solid white;
+    height:50px;
+    width:70%;
+    text-align:center;
+    color:white;
+    font-size:18px;
+    background:transparent;
+    
+}
+
+.submit_btn{
+    height: 40px;
+      width: 20%;
+      border-radius: 50px;
+      background-color: #11a9e2;
+      border: none;
+      color: white;
+      margin-top: 25px;
+      font-size: 18px;
+}
+
+
+@media (max-width: 767px) {
+    .container_div{
+        width:90%;
+    }
+    
+    .email_input, .submit_btn{
+        width:100%
+    }
+    
+}
