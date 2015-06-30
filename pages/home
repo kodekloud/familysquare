@@ -1,0 +1,14 @@
+<img class="logo" src="http://assets.kodekloud.io/sites/559303b26e6f642888000000/4210a9d837aed2fe1cd03fba7d4aec2b/fs_logo.png" alt="logo"/>
+<div class="container_div">
+    <p>Welcome to My Phone Finder on the Rogers and Fido network.  We are excited to launch this new service in a suite of services to help you care for your mobile device better.  Similar to Rogers Phone Finder and Fido Phone Finder, My Phone Finder will help you locate your lost phone easily.  My Phone Finder will work on ANY Rogers or Fido mobile phone.
+    </p>
+    <p>The Phone Finder Service on the Rogers and Fido network service will be launching very soon.  Sign up below with your email to receive a free month at launch and be the first to know when Phone Finder launches.</p>
+
+    <form action="http://mobilefringe.createsend.com/t/d/s/idhrhr/" method="post" id="subForm">
+        <input id="fieldEmail" name="cm-idhrhr-idhrhr" type="email" required placeholder="your email" class="email_input"/><br>
+        <button type="submit" class="submit_btn">Submit</button>
+    </form>
+    
+    
+    <p style="margin-top:40px">If you used the old Rogers Phone Finder or Fido Phone finder you are going to love our service.  My Phone Finder along with Family Finder will be part of our suite of  new mobile connecting services launching under our new name for Rogers and Fido customers.</p>
+</div>
