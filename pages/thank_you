@@ -2,4 +2,6 @@
 <div class="container_div">
     <p>You will hear from us soon. 
     </p>
+    
+    <button  class="submit_btn" onclick="window.location.href='/home'">Back</button>
 </div>
