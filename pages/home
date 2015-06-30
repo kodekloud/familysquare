@@ -1,8 +1,8 @@
 <img class="logo" src="http://assets.kodekloud.io/sites/559303b26e6f642888000000/4210a9d837aed2fe1cd03fba7d4aec2b/fs_logo.png" alt="logo"/>
 <div class="container_div">
-    <p>Welcome to My Phone Finder on the Rogers and Fido network.  We are excited to launch this new service in a suite of services to help you care for your mobile device better.  Similar to Rogers Phone Finder and Fido Phone Finder, My Phone Finder will help you locate your lost phone easily.  My Phone Finder will work on ANY Rogers or Fido mobile phone.
+    <p>Welcome to Find My Family on the Rogers and Fido network.  We are excited to launch this new service in a suite of services to help you care and stay connected to the family and friends that you love.  Similar to Rogers Family Finder and Fido Family Finder, Family Finder will help you locate your family and friends on any mobile phone on the Rogers or Fido network.  Family Finder allows you to create alerts and places so you can find your loved ones, and be notified when you want. 
     </p>
-    <p>The Phone Finder Service on the Rogers and Fido network service will be launching very soon.  Sign up below with your email to receive a free month at launch and be the first to know when Phone Finder launches.</p>
+    <p>The family and friend finder service on the Rogers and Fido network service will be launching very soon.  Sign up below with your email to receive a special offer at launch and be the first to know when Family Finder launches.</p>
 
     <form action="http://mobilefringe.createsend.com/t/d/s/idhrud/" method="post" id="subForm">
         <input id="fieldEmail" name="cm-idhrud-idhrud" type="email" required placeholder="your email" class="email_input"/><br>
@@ -10,5 +10,5 @@
     </form>
     
     
-    <p style="margin-top:40px">If you used the old Rogers Phone Finder or Fido Phone finder you are going to love our service.  My Phone Finder along with Family Finder will be part of our suite of  new mobile connecting services launching under our new name for Rogers and Fido customers.</p>
+    <p style="margin-top:40px">If you used the old Rogers Phone Finder or Family Finder you are going to love our service.  Fmaily Finder along with My Phone Finder will be part of our suite of  new mobile connecting services launching under our new name for Rogers and Fido customers.</p>
 </div>
